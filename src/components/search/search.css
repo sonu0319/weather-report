@@ -1,0 +1,46 @@
+.search{
+    padding: 0 30px;
+    text-align: center;
+    position: relative;
+}
+
+.location{
+    float: left;
+}
+
+.temperature{
+    float: right;
+}
+
+.searchbar{
+    width: 250px;
+}
+.search-icon{
+    background-color:white;
+    height: 20px;
+    width: 20px;
+}
+
+.button{
+    height: 30px;
+    width:30px
+}
+
+button:hover{
+    font-size: large;
+}
+
+.date{
+    position:absolute;
+    padding: 30px;
+}
+
+.city{
+    position: absolute;
+    padding: 50px;
+}
+
+.clear{
+    position: absolute;
+    padding: 70px;
+}
